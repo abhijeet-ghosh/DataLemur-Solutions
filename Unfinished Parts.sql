@@ -16,6 +16,7 @@ finish_date	datetime
 assembly_step	integer
 
 parts_assembly Example Input:
+
 part	finish_date	assembly_step
 battery	01/22/2022 00:00:00	1
 battery	02/22/2022 00:00:00	2
