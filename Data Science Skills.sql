@@ -33,6 +33,8 @@ Explanation:
 ============
 Candidate 123 is displayed because they have Python, Tableau, and PostgreSQL skills. 345 isn't included in the output because they're missing one of the required skills: PostgreSQL.*/
 
+DataLemur Link: https://datalemur.com/questions/matching-skills
+
 Solution:
 
 SELECT candidate_id FROM(
