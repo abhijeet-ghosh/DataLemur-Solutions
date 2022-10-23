@@ -1,6 +1,6 @@
 /* Level : Easy
 
-Linkedin
+Company : Linkedin
 
 This is the same question as problem #8 in the SQL Chapter of Ace the Data Science Interview!
 

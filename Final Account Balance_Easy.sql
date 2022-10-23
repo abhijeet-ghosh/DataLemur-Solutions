@@ -1,5 +1,7 @@
 /* Level : Easy
 
+Company : PayPal
+
 Given a table of bank deposits and withdrawals, return the final balance for each account.
 
 Assumption:
