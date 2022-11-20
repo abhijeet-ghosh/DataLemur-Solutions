@@ -55,6 +55,8 @@ The dataset you are querying against may have different input & output - this is
 
 */
 
+DataLemur Question Link: https://datalemur.com/questions/time-spent-snaps
+
 Solution:
 
 WITH timecalc AS
